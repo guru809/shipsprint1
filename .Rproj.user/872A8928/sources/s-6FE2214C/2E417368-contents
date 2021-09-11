@@ -1,0 +1,4 @@
+library(testthat)
+library(ship)
+
+test_check("ship")

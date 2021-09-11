@@ -1,0 +1,13 @@
+name: ship_sprint
+title: ship
+username:
+account: narayanansiyer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4632594
+bundleId: 5022832
+url: https://narayanansiyer.shinyapps.io/Ship_Sprint/
+when: 1631363900.24944
+lastSyncTime: 1631363900.24944
+asMultiple: FALSE
+asStatic: FALSE

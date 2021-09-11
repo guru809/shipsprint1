@@ -1,0 +1,11 @@
+body {
+  margin: 2 !important;
+  background: #D7D7E1 !important;
+}
+
+@media screen and (min-width: 845px) {
+  #mymap1 {
+    height: 100vh !important;
+  }
+}
+.mandatory_star { color: red; }
